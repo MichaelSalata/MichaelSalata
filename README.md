@@ -16,7 +16,7 @@ I'm a Software Engineer who completed the DataTalks.club Data Engineering Bootca
 
 
 
-# [Data Analysis Projects](https://michaelsalata.github.io/Heroes-of-the-Storm-Analysis/)
+# [Heroes of the Storm Analysis](https://michaelsalata.github.io/Heroes-of-the-Storm-Analysis/)
 
 
 
