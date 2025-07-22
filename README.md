@@ -2,7 +2,7 @@
 
 
 # About Me
-I'm a Software Engineer who completed the DataTalks.club Data Engineering Bootcamp and welcoming offers to collaborate and job opportunities.
+I'm a recent DataTalks.club Data Engineering Bootcamp graduaate that's welcoming job opportunities and offers to collaborate.
 
 # 🛠️ Technical Skills
 
