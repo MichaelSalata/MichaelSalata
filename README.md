@@ -7,9 +7,12 @@ I'm a Software Engineer who completed the DataTalks.club Data Engineering Bootca
 # 🛠️ Technical Skills
 
 **Languages**: Python, SQL  
-**Data** **Tools**: Airflow, dbt, Pandas, Jupyter Notebooks, Google Sheets, Streamlit  
-**Cloud**: *Google Cloud* Compute VM, Storage, BigQuery  
-**Other**: GIT, Bash, Regex, Docker, Terraform, Data Structures and Algorithms  
+**Data** **Tools**: Apache Airflow, Spark, dbt, Pandas, Jupyter Notebooks, Google Sheets, Streamlit  
+**Cloud**: *Google Cloud* Compute VM, Storage, BigQuery, Dataproc  
+**Other**: Linux, GIT, Regex, Docker, Terraform, Data Structures and Algorithms  
+
+
+# [Synthea Medications Data Pipeline](https://github.com/MichaelSalata/synthea-pipeline)
 
 
 # [Fitbit Pipeline](https://github.com/MichaelSalata/compare-my-biometrics)
