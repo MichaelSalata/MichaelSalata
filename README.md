@@ -8,7 +8,7 @@ I'm a recent DataTalks.club Data Engineering Bootcamp graduaate that's welcoming
 
 **Languages**: Python, SQL  
 **Data** **Tools**: Apache Airflow, Spark, dbt, Pandas, Jupyter Notebooks, Google Sheets, Streamlit  
-**Cloud**: *Google Cloud* Compute VM, Storage, BigQuery, Dataproc  
+**Google Cloud Resources**: Compute Virtual Machines, BigQuery, Dataproc, GCS
 **Other**: Linux, GIT, Regex, Docker, Terraform, Data Structures and Algorithms  
 
 
