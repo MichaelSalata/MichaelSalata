@@ -1,6 +1,6 @@
 
 # About Me
-I'm a recent DataTalks.club Data Engineering Bootcamp graduaate that's welcoming job opportunities and offers to collaborate.
+I'm a recent DataTalks.club Data Engineering Bootcamp graduate that's welcoming job opportunities and offers to collaborate.
  [LinkedIn](https://www.linkedin.com/in/michael-salata-6115a926/)
 
 # 🛠️ Technical Skills
