@@ -1,9 +1,9 @@
 
-# About Me
+# 👨‍💻 About Me
 I'm a recent DataTalks.club Data Engineering Bootcamp graduate that's welcoming job opportunities and offers to collaborate.
  [LinkedIn](https://www.linkedin.com/in/michael-salata-6115a926/)
 
-# Projects in 2025
+# 📊 Projects in 2025
 
 ## [Synthea Medications Data Pipeline](https://github.com/MichaelSalata/synthea-pipeline)
 
