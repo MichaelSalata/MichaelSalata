@@ -16,5 +16,5 @@ Just finished a Data Engineering Bootcamp and exploring exciting job opportuniti
 
 **Languages**: Python, SQL  
 **Data** **Tools**: Apache Airflow, Spark, dbt, Pandas, Jupyter Notebooks, Google Sheets, Streamlit  
-**Google Cloud Resources**: Compute Virtual Machines, BigQuery, Dataproc, GCS 
+**Google Cloud Resources**: Compute Virtual Machines, BigQuery, Dataproc, GCS    
 **Other**: Linux, GIT, Regex, Docker, Terraform, Data Structures and Algorithms 
