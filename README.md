@@ -6,7 +6,7 @@ Just finished a Data Engineering Bootcamp and exploring exciting job opportuniti
 
 # 📊 Projects in 2025
 
-## [Heroes of the Storm Sample-Analysis](Michaelsalata.github.io/Heroes-of-the-Storm-Analysis/)
+## [Heroes of the Storm Sample-Analysis](https://Michaelsalata.github.io/Heroes-of-the-Storm-Analysis/)
 
 ## [Synthea Medications Data Pipeline](https://github.com/MichaelSalata/synthea-pipeline)
 
