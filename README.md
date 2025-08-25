@@ -2,8 +2,6 @@
 # 👨‍💻 About Me
 Data Engineer exploring exciting job opportunities and collaborations! My interests are in building scalable data pipelines, automating workflows with Airflow, and working with big data tools like Spark and BigQuery.
 
- [LinkedIn](https://www.linkedin.com/in/michael-salata-6115a926/)
-
 # 📊 Projects in 2025
 
 ## [Synthea Medications Data Pipeline](https://github.com/MichaelSalata/synthea-pipeline)
