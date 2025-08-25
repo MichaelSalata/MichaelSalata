@@ -14,7 +14,7 @@ Data Engineer exploring exciting job opportunities and collaborations! My intere
 
 # 🛠️ Technical Skills
 
-**Languages**: Python, SQL  
+**Languages**: C/C++, Python, SQL  
 **Data** **Tools**: Apache Airflow, Spark, dbt, Pandas, Jupyter Notebooks, Google Sheets, Streamlit  
 **Google Cloud Resources**: Compute Virtual Machines, BigQuery, Dataproc, GCS    
 **Other**: Linux, GIT, Regex, Docker, Terraform, Data Structures and Algorithms 
