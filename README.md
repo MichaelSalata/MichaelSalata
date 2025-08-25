@@ -8,7 +8,7 @@ Data Engineer exploring exciting job opportunities and collaborations! My intere
 
 ## [Synthea Medications Data Pipeline](https://github.com/MichaelSalata/synthea-pipeline)
 
-## [Fitbit Pipeline](https://github.com/MichaelSalata/compare-my-biometrics)
+## [Fitbit Biometric Data Pipeline](https://github.com/MichaelSalata/compare-my-biometrics)
 
 ## [Energy-Usage vs Weather Analysis](https://github.com/MichaelSalata/energy-analysis-web)
 
