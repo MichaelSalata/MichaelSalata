@@ -6,13 +6,13 @@ Data Engineer exploring exciting job opportunities and collaborations! My intere
 
 # 📊 Projects in 2025
 
-## [Heroes of the Storm Sample-Analysis](https://Michaelsalata.github.io/Heroes-of-the-Storm-Analysis/)
-
 ## [Synthea Medications Data Pipeline](https://github.com/MichaelSalata/synthea-pipeline)
 
 ## [Fitbit Pipeline](https://github.com/MichaelSalata/compare-my-biometrics)
 
 ## [Energy-Usage vs Weather Analysis](https://github.com/MichaelSalata/energy-analysis-web)
+
+## [Heroes of the Storm Sample-Analysis](https://Michaelsalata.github.io/Heroes-of-the-Storm-Analysis/)
 
 # 🛠️ Technical Skills
 
