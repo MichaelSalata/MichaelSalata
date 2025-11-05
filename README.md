@@ -1,20 +1,19 @@
 
 # About Me
-Data Engineer exploring exciting job opportunities and collaborations! My interests are in building scalable data pipelines, automating workflows with Airflow, and working with big data tools like Spark and BigQuery.
+Data Engineer looking for job opportunities and teammates to collaborate on projects to help people! I like automating data pipelines,learning about Backend Engineering and processing huge amounts of data with Spark, dbt and BigQuery.
 
 # Projects in 2025
+|  |  |  |
+|----------|--------|------------|
+| Synthea Medications **Data Pipeline** | [github](https://github.com/MichaelSalata/synthea-pipeline) | [dashboard1](https://lookerstudio.google.com/s/slTgaGUzJPA), [2](https://lookerstudio.google.com/s/rQG-uPbW3e4) |
+| Fitbit Biometric **Data Pipeline** | [github](https://github.com/MichaelSalata/compare-my-biometrics) | [dashboard](https://lookerstudio.google.com/reporting/62d48d66-0361-4d53-9927-ed9a604cafd9/page/30qCF) |
+| Energy-Usage vs Weather **Analysis** | [github](https://github.com/MichaelSalata/energy-analysis-web) | [dashboard](https://energy-analysis-web.streamlit.app/) |
+| Heroes of the Storm Sample **Analysis** | - | [dashboard](https://Michaelsalata.github.io/Heroes-of-the-Storm-Analysis/) |
 
-## [Synthea Medications Data Pipeline](https://github.com/MichaelSalata/synthea-pipeline)
-
-## [Fitbit Biometric Data Pipeline](https://github.com/MichaelSalata/compare-my-biometrics)
-
-## [Energy-Usage vs Weather Analysis](https://github.com/MichaelSalata/energy-analysis-web)
-
-## [Heroes of the Storm Sample-Analysis](https://Michaelsalata.github.io/Heroes-of-the-Storm-Analysis/)
 
 # Technical Skills
 
 **Languages**: C/C++, Python, SQL  
-**Data** **Tools**: Apache Airflow, Spark, dbt, Pandas, Jupyter Notebooks, Google Sheets, Streamlit  
-**Google Cloud Resources**: Compute Virtual Machines, BigQuery, Dataproc, GCS    
-**Other**: Linux, GIT, Regex, Docker, Terraform, Data Structures and Algorithms 
+**Data Tools**: Apache Airflow, Spark, dbt, Pandas, Google Sheets, Streamlit
+**Google Cloud Tools**: BigQuery, Compute Virtual Machines, Dataproc, GCS
+**Softare Dev Tools**: Linux, GIT, Regex, Docker, Terraform, Data Structures and Algorithms
