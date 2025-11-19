@@ -1,6 +1,6 @@
 
 # About Me
-Data Engineer looking for job opportunities and teammates to collaborate on projects to help people! I like automating data pipelines,learning about Backend Engineering and processing huge amounts of data with Spark, dbt and BigQuery.
+Data Engineer looking for job opportunities and meaningful projects to help people! I enjoy automating data pipelines, building backend systems and processing huge amounts of data with Spark, dbt and BigQuery.
 
 # Projects in 2025
 |  |  |  |
