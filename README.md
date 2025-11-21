@@ -14,7 +14,7 @@ Data Engineer looking for job opportunities and meaningful projects to help peop
 
 # Technical Skills
 
-**Languages**: C/C++, Python, SQL  
-**Data Tools**: Apache Airflow, Spark, dbt, Pandas, Google Sheets, Streamlit
-**Google Cloud Tools**: BigQuery, Compute Virtual Machines, Dataproc, GCS
-**Softare Dev Tools**: Linux, GIT, Regex, Docker, Terraform, Data Structures and Algorithms
+- **Languages**: C/C++, Python, SQL  
+- **Data Tools**: Apache Airflow, Spark, dbt, Pandas, Google Sheets, Streamlit
+- **Google Cloud Tools**: BigQuery, Compute Virtual Machines, Dataproc, GCS
+- **Softare Dev Tools**: Linux, GIT, Regex, Docker, Terraform, Data Structures and Algorithms
