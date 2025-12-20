@@ -1,5 +1,5 @@
 # About Me
-I enjoy spreadsheets, data pipelines, building backend systems, and processing huge amounts of data.
+I enjoy spreadsheets, making things run well, and discovering a new truth from data.
 Currently, I'm looking for job opportunities and meaningful projects that help people! 
 
 # Projects in 2025
