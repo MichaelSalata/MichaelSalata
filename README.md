@@ -9,7 +9,7 @@ I enjoy spreadsheets, optimizing systems, and discovering something new from dat
 | Energy-Usage vs Weather **Analysis** | [github](https://github.com/MichaelSalata/energy-analysis-web) | [analysis](https://energy-analysis-web.streamlit.app/) |
 | Heroes of the Storm Sample **Analysis** | - | [analysis](https://Michaelsalata.github.io/Heroes-of-the-Storm-Analysis/) |
 | Chingu Member Database **Query Builder API** | [github](https://github.com/chingu-voyages/V58-tier3-team-37/tree/main/database-access-API) | - |
-| Chingu Member Data Cleaning **Jupyter Notebook** | [github](https://github.com/chingu-voyages/V58-tier3-team-37/tree/main/data_cleaning) | [notebook](https://github.com/MichaelSalata/v58-tier3-team-37-clone/blob/main/data_cleaning/cleaning_chingu_demographics.ipynb) |
+| Chingu Member Data Cleaning **Jupyter Notebook** | [github](https://github.com/chingu-voyages/V58-tier3-team-37/tree/main/data_cleaning) | [notebook](https://github.com/chingu-voyages/V58-tier3-team-37/blob/main/data_cleaning/cleaning_chingu_demographics.ipynb) |
 | Chingu Member Demographics **Dashboard** | - | [dashboard](https://lookerstudio.google.com/s/lClLTcvQVS0) |
 
 
