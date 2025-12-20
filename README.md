@@ -1,6 +1,5 @@
 # About Me
-I enjoy spreadsheets, making things run well, and discovering a new truth from data.
-Currently, I'm looking for job opportunities and meaningful projects that help people! 
+I enjoy spreadsheets, making things run well, and discovering something new from data. Currently, I'm looking for job opportunities and meaningful projects that help people!
 
 # Projects in 2025
 |  |  |  |
