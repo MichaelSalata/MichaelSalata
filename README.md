@@ -15,7 +15,7 @@ I enjoy spreadsheets, optimizing systems, and discovering something new from dat
 
 # Technical Skills
 
-- **Languages**: C/C++, Python, SQL  
+- **Languages**: Python, SQL  
 - **Data Tools**: Apache Airflow, Pandas, Spark, dbt, Google Sheets
 - **Google Cloud Tools**: BigQuery, Compute Virtual Machines, Dataproc, Google Cloud Storage
 - **Softare Dev Tools**: Linux, GIT, Regex, Docker, Terraform
