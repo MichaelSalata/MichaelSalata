@@ -1,7 +1,7 @@
 # About Me
 I enjoy spreadsheets, optimizing systems, and discovering something new from data. Currently, I'm looking for job opportunities and meaningful projects that help people!
 
-# Projects in 2025
+# Recent Projects
 |  |  |  |
 |----------|--------|------------|
 | Synthea Medications **Data Pipeline** | [github](https://github.com/MichaelSalata/synthea-pipeline) | [dashboard1](https://lookerstudio.google.com/s/slTgaGUzJPA), [2](https://lookerstudio.google.com/s/rQG-uPbW3e4) |
